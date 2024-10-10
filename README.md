@@ -2,7 +2,7 @@
     <h3> My edit of 1amSimp1e's Dot Files 📁</h3>
 </a>
 
-## Highly recomended to use with CachyOS!!
+### Highly recomended to use with CachyOS!!
 
 ## [Late Night🌃]()
 
