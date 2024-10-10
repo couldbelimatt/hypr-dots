@@ -14,7 +14,7 @@
 [LierB's FastFetch Config](https://github.com/LierB/fastfetch) \
 [CachyOS](https://cachyos.org)
 
-## Dependencies
+## Hyprland Installation
 
 > Just [R.T.F.M](https://en.wikipedia.org/wiki/RTFM)
 
@@ -25,16 +25,17 @@ This worked best for me, as I'm on Nvidia.
   yay -S hyprland-git
  ```
 
+- Then, follow the [Official Installation Guide](https://wiki.hyprland.org/Getting-Started/Installation/) to make sure you know what you're doing.
 
-- Install waybar, Rofi, Dunst, kitty terminal, swaybg, swaylock-fancy, pulsemixer, light, Brillo:
+## Install Dependencies
 
 ```
-paru -S waybar rofi dunst kitty swaybg swaylock-fancy-git pulsemixer light brillo fish
+paru -S waybar rofi dunst kitty swaybg swaylock-fancy-git pulsemixer light brillo fish zen-bin nemo lxappearance
 ```
 
-- Optional stuff
+- Optional stuff (to replicate my exact setup (CACHYOS ONLY))
 ```
-paru -S zen-bin nemo lxappearance ocs-url 
+paru -S ocs-url vesktop gdm && sudo pacman -S cachyos-gaming-meta
 ```
 
 ### Fonts:
