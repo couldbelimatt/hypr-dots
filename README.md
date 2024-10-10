@@ -1,4 +1,4 @@
-# My edit of 1amSimp1e's Dot Files 📁<
+# My edit of 1amSimp1e's Dot Files 📁
 
 
 ### Highly recomended to use with CachyOS!!
