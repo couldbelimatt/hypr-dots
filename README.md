@@ -1,4 +1,4 @@
-<div align="center">
+
     <h3> My edit of 1amSimp1e's Dot Files 📁</h3>
 </a>
 
