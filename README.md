@@ -3,7 +3,6 @@
 
 ### Highly recomended to use with CachyOS!!
 
-![](https://fuji.s-ul.eu/KDu0u966)
 ![](https://fuji.s-ul.eu/e8oXLpoo)
 
 ## Credits
