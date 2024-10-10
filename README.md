@@ -35,7 +35,7 @@ paru -S waybar rofi dunst kitty swaybg swaylock-fancy-git pulsemixer light brill
 
 - Optional stuff (to replicate my exact setup (CACHYOS ONLY))
 ```
-paru -S ocs-url vesktop gdm && sudo pacman -S cachyos-gaming-meta
+paru -S ocs-url goxlr-utility vesktop gdm && sudo pacman -S cachyos-gaming-meta
 ```
 
 ### Fonts:
