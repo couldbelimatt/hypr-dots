@@ -55,7 +55,7 @@ fc-cache -fv
 ## Copy Files 
 
 ```
-git clone -b late-night-🌃 https://github.com/iamverysimp1e/dots
+git clone https://github.com/couldbelimatt/hypr-dots.git
 cd dots
 cp -r ./configs/* ~/.config/
 ```
