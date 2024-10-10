@@ -11,7 +11,7 @@
 ## Credits
 
 [1amSimp1e](https://github.com/1amSimp1e/dots)\
-[LierB's FastFetch Config](https://github.com/LierB/fastfetch)
+[LierB's FastFetch Config](https://github.com/LierB/fastfetch) \
 [CachyOS](https://cachyos.org)
 
 ## Dependencies
