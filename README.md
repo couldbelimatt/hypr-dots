@@ -21,15 +21,20 @@
 - First of all, Install the newest [Hyprland](https://hyprland.org/) or use CachyOS's  version in the installer. \
 This worked best for me, as I'm on Nvidia.
 
-  ```zsh
+ ```
   yay -S hyprland-git
-  ```
+ ```
 
 
 - Install waybar, Rofi, Dunst, kitty terminal, swaybg, swaylock-fancy, pulsemixer, light, Brillo:
 
 ```
-paru -S waybar rofi dunst kitty swaybg swaylock-fancy-git pulsemixer light brillo
+paru -S waybar rofi dunst kitty swaybg swaylock-fancy-git pulsemixer light brillo fish
+```
+
+- Optional stuff
+```
+paru -S zen-bin nemo lxappearance ocs-url 
 ```
 
 ### Fonts:
