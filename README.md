@@ -43,8 +43,6 @@ paru -S ocs-url goxlr-utility vesktop gdm && sudo pacman -S cachyos-gaming-meta
   paru -S ttf-font-awesome nerd-fonts-git
   ```
 
-Once you download them and unpack them, place them into `~/.fonts` or `~/.local/share/fonts.`
-
 Then run this command for your system to detect the newly installed fonts.
 
 ```
