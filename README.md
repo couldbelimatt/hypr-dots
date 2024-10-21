@@ -11,11 +11,10 @@
 
 # Tutorial
 
-## Hyprland Installation
 
 > Just [R.T.F.M](https://en.wikipedia.org/wiki/RTFM)
 
-- Install the newest [Hyprland](https://hyprland.org/) \
+- Install the newest [Hyprland](https://hyprland.org/)
 
  ```
   yay -S hyprland-git
