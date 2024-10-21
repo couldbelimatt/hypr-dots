@@ -2,7 +2,7 @@
  *
  * Author : Aditya Shakya (adi1090x)
  * Github : @adi1090x
- * 
+ * Edit : limatt @ limatt.xyz
  * Rofi Theme File
  * Rofi Version: 1.7.3
  **/
@@ -20,7 +20,7 @@ configuration {
 }
 
 /*****----- Global Properties -----*****/
-@import                          "./colors.rasi"
+@import                          "./astolfo.rasi"
 @import                          "./fonts.rasi"
 
 * {
@@ -307,4 +307,3 @@ error-message {
     background-color:            @background-colour;
     text-color:                  @foreground-colour;
 }
-
