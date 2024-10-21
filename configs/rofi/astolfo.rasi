@@ -1,8 +1,8 @@
 * {
-    background:     #191724; /* Rose Pine Base */
-    background-alt: #1F1A2A; /* Rose Pine Alt */
-    foreground:     #E0DEF4; /* Rose Pine Text */
-    selected:       #F28FAD; /* Rose Pine Pink */
-    active:         #A5ADCD; /* Rose Pine Blue */
-    urgent:         #F7A8A1; /* Rose Pine Urgent */
+    background:     #191724;
+    background-alt: #1F1A2A;
+    foreground:     #E0DEF4;
+    selected:       #F28FAD;
+    active:         #A5ADCD;
+    urgent:         #F7A8A1;
 }
