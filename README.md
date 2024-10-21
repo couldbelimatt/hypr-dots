@@ -1,9 +1,7 @@
-# My edit of 1amSimp1e's Dot Files 📁
+# My Dotfiles 📁
 
-
-### Highly recomended to use with CachyOS!!
-
-![](https://fuji.s-ul.eu/e8oXLpoo)
+![](https://limatt.s-ul.eu/aRj18NCR)
+![](https://limatt.s-ul.eu/8Fvyoavp)
 
 ### Credits
 
@@ -17,14 +15,11 @@
 
 > Just [R.T.F.M](https://en.wikipedia.org/wiki/RTFM)
 
-- First of all, Install the newest [Hyprland](https://hyprland.org/) or use CachyOS's  version in the installer. \
-This worked best for me, as I'm on Nvidia.
+- Install the newest [Hyprland](https://hyprland.org/) \
 
  ```
   yay -S hyprland-git
  ```
-
-- Then, follow the [Official Installation Guide](https://wiki.hyprland.org/Getting-Started/Installation/) to make sure you know what you're doing.
 
 ## Install Dependencies
 
@@ -43,13 +38,13 @@ paru -S ocs-url goxlr-utility vesktop gdm && sudo pacman -S cachyos-gaming-meta
   paru -S ttf-font-awesome nerd-fonts-git
   ```
 
-Then run this command for your system to detect the newly installed fonts.
+Then run this command to detect the newly installed fonts.
 
 ```
 fc-cache -fv
 ```
 
-## Copy Files 
+## Clone & move files 
 
 ```
 git clone https://github.com/couldbelimatt/hypr-dots.git
