@@ -1,5 +1,6 @@
 # My Dotfiles 📁
 
+Rose-pine themed Hyprland rice :)
 ![](https://limatt.s-ul.eu/aRj18NCR)
 ![](https://limatt.s-ul.eu/8Fvyoavp)
 
