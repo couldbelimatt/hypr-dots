@@ -28,7 +28,7 @@ Rose-pine themed Hyprland rice :)
 paru -S waybar rofi dunst kitty swaybg swaylock-fancy-git pulsemixer light brillo fish zen-bin nemo lxappearance
 ```
 
-- Optional stuff (to replicate my exact setup
+- Optional stuff (to replicate my exact setup)
 ```
 paru -S ocs-url goxlr-utility vesktop gdm && sudo pacman -S cachyos-gaming-meta
 ```
